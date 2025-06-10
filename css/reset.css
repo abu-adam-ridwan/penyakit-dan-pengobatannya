@@ -1,0 +1,18 @@
+:root {
+  --bg: #c3f550;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--bg);
+}
+
+a {
+  color: #010101;
+}

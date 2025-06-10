@@ -1,0 +1,36 @@
+{
+  "Result": [
+    {
+      "NamaPenyakit": "Alergi",
+      "Definisi": "Adalah reaksi berlebihan sistem kekebalan tubuh terhadap zat tertentu (alergen) yang sebenarnya tidak berbahaya bagi sebagian besar orang. Alergen dapat berupa makanan, serbuk sari, debu, bulu hewan, obat-obatan, atau bahan kimia lainnya. Meski pun alergi umumnya tidak mengancam jiwa, dalam beberapa kasus, alergi dapat menyebabkan reaksi parah seperti anafilaksis, yang memerlukan penanganan segera. Pengobatan bertujuan untuk mengidentifikasi, menghindari alergen, & mengelola gejala yang muncul.",
+      "Penyebab": {
+        "FaktorMedisModern": {
+          "ReaksiImunTerhadapAlergen": "Sistem kekebalan tubuh salah mengenali alergen sebagai ancaman dan melepaskan histamin sebagai respons",
+          "FaktorGenetik": "Riwayat keluarga dengan alergi meningkatkan risiko",
+          "Lingkungan": "Paparan polusi udara, asap rokok, atau bahan kimia dapat memicu alergi",
+          "MakananTertentu": "Makanan seperti kacang-kacangan, susu, telur, seafood, dan gluten sering menjadi penyebab alergi",
+          "ObatObatan": "Beberapa obat seperti antibiotik atau aspirin dapat memicu reaksi alergi"
+        },
+        "FaktorHerbalDanThibbNabawi": {
+          "AkumulasiRacunTubuh": "Disebabkan oleh konsumsi makanan tidak sehat atau kurang detoksifikasi.",
+          "KetidakseimbanganEnergiTubuh": "Akibat konsumsi makanan dingin atau panas secara berlebihan.",
+          "KelemahanOrganInternal": "Terutama hati dan ginjal, yang berperan dalam detoksifikasi tubuh."
+        }
+      },
+      "TandaDanGejala": [
+        "Gatal-gatal atau ruam pada kulit (urtikaria).",
+        "Bersin-bersin, hidung tersumbat, atau pilek tanpa infeksi (rhinitis alergi).",
+        "Mata merah, gatal, atau berair (konjungtivitis alergi).",
+        "Pembengkakan pada wajah, bibir, lidah, atau tenggorokan.",
+        "Sesak napas, mengi, atau batuk (asma alergi).",
+        "Dalam kasus parah: Penurunan tekanan darah, denyut jantung cepat, atau kehilangan kesadaran (anafilaksis)."
+      ],
+      "MekanismePenyakit": "",
+      "FaktorRisiko": "",
+      "SaranPengobatan": "",
+      "RekomendasiDiet": "",
+      "ModifikasiGayaHidup": "",
+      "": ""
+    }
+  ]
+}
