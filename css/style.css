@@ -24,3 +24,26 @@
 #list li {
   margin-bottom: 1rem;
 }
+
+/* Media Queries */
+
+/* Laptop */
+@media (max-width: 1336px) {
+  :root {
+    font-size: 75%;
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  :root {
+    font-size: 62%;
+  }
+}
+
+/* Mobile Phone */
+@media (max-width: 450px) {
+  :root {
+    font-size: 55%;
+  }
+}
