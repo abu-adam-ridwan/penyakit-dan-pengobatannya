@@ -1,0 +1,82 @@
+{
+  "Data": [
+    { "nama": "ALERGI", "path": "alergi" },
+    { "nama": "ASMA", "path": "asma" },
+    { "nama": "ATROPI OTOT & SENDI", "path": "atropi-otot-dan-sendi" },
+    { "nama": "AYAN (EPILEPSI)", "path": "ayan" },
+    {
+      "nama": "BATU & PERADANGAN EMPEDU",
+      "path": "batu-dan-peradangan-empedu"
+    },
+    { "nama": "BATU GINJAL (Nefrolitiasis)", "path": "batu-ginjal" },
+    { "nama": "BATUK BERDAHAK", "path": "batuk-berdahak" },
+    { "nama": "BATU KERING", "path": "batu-kering" },
+    { "nama": "BENJOLAN PAYUDARA (Fibrokistik)", "path": "benjolan-payudara" },
+    { "nama": "DEMAM TIPOID (TIPES)", "path": "demam-tipoid" },
+    { "nama": "DEMAM", "path": "demam" },
+    { "nama": "GLAUKOMA", "path": "glaukoma" },
+    {
+      "nama": "HAID tidak LANCAR (MENSTRUASI tidak TERATUR)",
+      "path": "haid-tidak-lancar"
+    },
+    { "nama": "HIPERGLIKEMIA TIPE 2 (Diabetes)", "path": "vertigo" },
+    { "nama": "HORMON tidak SEIMBANG", "path": "vertigo" },
+    { "nama": "INFEKSI USUS BUNTU (APPENDISITIS)", "path": "vertigo" },
+    { "nama": "JERAWAT", "path": "vertigo" },
+    { "nama": "KATARAK", "path": "vertigo" },
+    { "nama": "KEGEMUKAN (OBESITAS)", "path": "vertigo" },
+    {
+      "nama": "KEKENTALAN DARAH (HIPERKOAGULASI HIPERVISKOSITAS DARAH)",
+      "path": "vertigo"
+    },
+    {
+      "nama": "KELEBIHAN ASAM URAT GOUT (HIPERURISEMIA) (Untuk Sales)",
+      "path": "vertigo"
+    },
+    { "nama": "KELEBIHAN ASAM URAT GOUT (HIPERURISEMIA)", "path": "vertigo" },
+    {
+      "nama": "KERUSAKAN SARAF PERIFER (NEUROPATI PERIFER)",
+      "path": "vertigo"
+    },
+    { "nama": "KISTA RAHIM (KISTA OVARIUM)", "path": "vertigo" },
+    { "nama": "KOLESTEROL TINGGI (HIPERKOLESTEROL)", "path": "vertigo" },
+    { "nama": "LUMPUH SEBELAH (HEMIPLEGIA)", "path": "vertigo" },
+    { "nama": "MASALAH LAMBUNG", "path": "vertigo" },
+    { "nama": "NYERI ULU HATI KARENA FATTY LIVER", "path": "vertigo" },
+    {
+      "nama": "PEMBESARAN PROSTAT JINAK (BENIGN PROSTATIC HYPERPLASIA BPH)",
+      "path": "vertigo"
+    },
+    {
+      "nama": "PENGAPURAN, NYERI SENDI & OTOT (OSTEOARTRITIS)",
+      "path": "vertigo"
+    },
+    { "nama": "PENYAKIT BERDENGKUR", "path": "vertigo" },
+    { "nama": "PENYAKIT GAGAL GINJAL", "path": "vertigo" },
+    { "nama": "PENYAKIT JANTUNG KORONER", "path": "vertigo" },
+    { "nama": "PENYAKIT KEGANASAN (KANKER & TUMOR)", "path": "vertigo" },
+    { "nama": "PERADANGAN AMANDEL (TONSILITIS)", "path": "vertigo" },
+    { "nama": "PERADANGAN GINJAL (NEFRITIS)", "path": "vertigo" },
+    { "nama": "PERADANGAN HEPAR (HATI) HEPATITIS", "path": "vertigo" },
+    { "nama": "PERADANGAN KANDUNG KEMIH (SISTITIS)", "path": "vertigo" },
+    {
+      "nama": "PERADANGAN PEMBENGKAKAN KELENJAR TIROID (TIROIDITIS)",
+      "path": "vertigo"
+    },
+    {
+      "nama": "PERADANGAN PEMBENGKAKAN KOTAK SUARA (LARINGITIS)",
+      "path": "vertigo"
+    },
+    { "nama": "SAKIT GIGI (ODONTALGIA)", "path": "vertigo" },
+    { "nama": "SAKIT PINGGANG (LUMBAGO)", "path": "vertigo" },
+    { "nama": "SARAF TERJEPIT (SCIATICA)", "path": "vertigo" },
+    { "nama": "STROKE", "path": "vertigo" },
+    { "nama": "SULIT BERBICARA (AFASIA DYSARTHRIA)", "path": "vertigo" },
+    { "nama": "TBC PARU (TUBERKULOSIS)", "path": "vertigo" },
+    { "nama": "TEKANAN DARAH TINGGI (HIPERTENSI)", "path": "vertigo" },
+    { "nama": "TURUN BEROK (HERNIA)", "path": "vertigo" },
+    { "nama": "TURUN PERANAKAN (PROLAPS UTERI)", "path": "vertigo" },
+    { "nama": "VERTIGO", "path": "vertigo" },
+    { "nama": "WASIR (HEMOROID)", "path": "" }
+  ]
+}
